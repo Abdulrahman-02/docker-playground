@@ -6,10 +6,10 @@ Containers are lightweight, portable, and isolated software environments that al
 
 Unlike traditional virtualization, which emulates a complete operating system with its hardware resources, containers share the host’s OS kernel and leverage lightweight virtualization techniques to create isolated processes. This approach leads to several benefits, including:
 
-- Efficiency: Containers have less overhead and can share common libraries and executable files, making it possible to run more containers on a single host compared to virtual machines (VMs).
-- Portability: Containers encapsulate applications and their dependencies, so they can easily be moved and run across different environments and platforms consistently.
-- Fast startup: Since containers don’t need to boot a full OS, they can start up and shut down much faster than VMs.
-- Consistency: Containers provide a consistent environment for development, testing, and production stages of an application, reducing the “it works on my machine” problem.
+- **Efficiency**: Containers have less overhead and can share common libraries and executable files, making it possible to run more containers on a single host compared to virtual machines (VMs).
+- **Portability**: Containers encapsulate applications and their dependencies, so they can easily be moved and run across different environments and platforms consistently.
+- **Fast startup**: Since containers don’t need to boot a full OS, they can start up and shut down much faster than VMs.
+- **Consistency**: Containers provide a consistent environment for development, testing, and production stages of an application, reducing the “it works on my machine” problem.
 
 ## Containers and Docker
 

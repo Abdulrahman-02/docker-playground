@@ -10,9 +10,9 @@ Docker is one of the founding members of the OCI, and it has played a pivotal ro
 
 OCI has two main specifications:
 
-- Runtime Specification (runtime-spec): It defines the specification for executing a container via an isolation technology, like a container engine. The container runtime built by Docker, called ‘containerd’, has guided the development of the OCI runtime-spec.
+- **Runtime Specification (runtime-spec)**: It defines the specification for executing a container via an isolation technology, like a container engine. The container runtime built by Docker, called ‘containerd’, has guided the development of the OCI runtime-spec.
 
-- Image Specification (image-spec): It defines the container image format, which describes the contents of a container and can be run by a compliant runtime. Docker’s initial image format has led to the creation of the OCI image-spec.
+- **Image Specification (image-spec)**: It defines the container image format, which describes the contents of a container and can be run by a compliant runtime. Docker’s initial image format has led to the creation of the OCI image-spec.
 
 ## Compatibility between Docker and OCI
 
