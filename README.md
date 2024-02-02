@@ -13,3 +13,13 @@ Docker is an open-source platform that automates the deployment, scaling, and ma
 ### 3. [Bare Metal vs VM vs Containers](docs/bm-vm-container.md)
 
 ### 4. [Docker & OCI](docs/oci.md)
+
+## Underlying Technologies
+
+Understanding the core technologies that power Docker will provide you with a deeper insight into how Docker works and will help you use the platform more effectively.
+
+### 1. [Linux Containers (LXC)](docs/linuxContainers.md)
+
+### 2. [Namespaces](docs/namespaces.md)
+
+### 3. [Control Groups](docs/controlGroups.md)
