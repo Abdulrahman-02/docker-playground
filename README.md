@@ -25,3 +25,11 @@ Understanding the core technologies that power Docker will provide you with a de
 ### 3. [Control Groups](docs/underlyingTech/controlGroups.md)
 
 ### 4. [Union FileSystems](docs/underlyingTech/unionFileSystems.md)
+
+## Installation / Setup
+
+Docker provides a desktop application called Docker Desktop that simplifies the installation and setup process. There is also another option to install using the Docker Engine.
+
+### 1. [Docker Desktop](docs/installation-setup/dockerDesktop.md)
+
+### 2. [Docker Engine](docs/installation-setup/dockerEngine.md)
