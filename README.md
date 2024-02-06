@@ -35,3 +35,11 @@ Docker provides a desktop application called Docker Desktop that simplifies the 
 ### 2. [Docker Engine](docs/installation-setup/dockerEngine.md)
 
 ## [Docker Basics](docs/dockerBasics/dockerBasics.md)
+
+## [Data Persistence](docs/dataPersistence/dataPersistance.md)
+
+### 1. [Ephemeral container filesystem](docs/dataPersistence/ephemeralFS.md)
+
+### 2. [Volume Mounts](docs/dataPersistence/volumeMounts.md)
+
+### 3. [Bind Mounts](docs/dataPersistence/bindMounts.md)
