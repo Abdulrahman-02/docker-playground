@@ -51,3 +51,11 @@ Docker provides a desktop application called Docker Desktop that simplifies the 
 ### 2. [Interactive Test Environments](docs/thirdPartyImages/interactiveTestEnvironments.md)
 
 ### 3. [Command Line Utilities](docs/thirdPartyImages/commandLineUtilities.md)
+
+## [Building Container Images](docs/buildingContainerImages/buildingContainerImages.md)
+
+### 1. [Dockerfiles](docs/buildingContainerImages/dockerfiles.md)
+
+### 2. [Efficient layer caching](docs/buildingContainerImages/efficientLayerCaching.md)
+
+### 3. [Image size and security](docs/buildingContainerImages/imageSizeAndSecurity.md)
