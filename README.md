@@ -59,3 +59,11 @@ Docker provides a desktop application called Docker Desktop that simplifies the 
 ### 2. [Efficient layer caching](docs/buildingContainerImages/efficientLayerCaching.md)
 
 ### 3. [Image size and security](docs/buildingContainerImages/imageSizeAndSecurity.md)
+
+## [Container Registries](docs/containerRegistries/containerRegistries.md)
+
+### 1. [DockerHub](docs/containerRegistries/dockerHub.md)
+
+### 2. [DockerHub Alternatives](docs/containerRegistries/dockerHubAlternatives.md)
+
+### 3. [Image Tagging Best Practices](docs/containerRegistries/imageTaggingBestPractices.md)
