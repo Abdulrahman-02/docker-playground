@@ -67,3 +67,11 @@ Docker provides a desktop application called Docker Desktop that simplifies the 
 ### 2. [DockerHub Alternatives](docs/containerRegistries/dockerHubAlternatives.md)
 
 ### 3. [Image Tagging Best Practices](docs/containerRegistries/imageTaggingBestPractices.md)
+
+## [Running Containers](docs/runningContainers/runningContainers.md)
+
+### 1. [Docker Run](docs/runningContainers/dockerRun.md)
+
+### 2. [Docker Compose](docs/runningContainers/dockerCompose.md)
+
+### 3. [Runtime Configuration Options](docs/runningContainers/runtimeConfigurationOptions.md)
