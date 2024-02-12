@@ -91,3 +91,13 @@ Docker provides a desktop application called Docker Desktop that simplifies the 
 ### 3. [Networks](docs/dockerCLI/networks.md)
 
 ### 4. [Volumes](docs/dockerCLI/volumes.md)
+
+## [Developer Experience](docs/developerExperience/developerExperience.md)
+
+### 1. [Hot Reloading](docs/developerExperience/hotReloading.md)
+
+### 2. [Debuggers](docs/developerExperience/debuggers.md)
+
+### 3. [Tests](docs/developerExperience/tests.md)
+
+### 4. [Continuous Integration](docs/developerExperience/ci.md)
