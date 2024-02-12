@@ -101,3 +101,13 @@ Docker provides a desktop application called Docker Desktop that simplifies the 
 ### 3. [Tests](docs/developerExperience/tests.md)
 
 ### 4. [Continuous Integration](docs/developerExperience/ci.md)
+
+## [Deploying Containers](docs/deployingContainers/deployingContainers.md)
+
+### 1. [PaaS Options](docs/deployingContainers/PaaSOptions.md)
+
+### 2. [Kubernetes](docs/deployingContainers/kubernetes.md)
+
+### 3. [Docker Swarm](docs/deployingContainers/dockerSwarm.md)
+
+### 4. [Nomad](docs/deployingContainers/nomad.md)
